@@ -2,7 +2,7 @@
 
 This project uses **XGBoost** to predict house prices based on various features like crime rate, number of rooms, tax rates, etc.
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains the following features:
 
@@ -23,7 +23,7 @@ The dataset contains the following features:
 | LSTAT   | % lower status population                                           |
 | MEDV    | Median home value (Target Variable)                                 |
 
-## 🚀 Installation
+## Installation
 
 Make sure you have **Python 3.x** installed along with the required libraries.  
 You can install dependencies using:
@@ -32,7 +32,7 @@ You can install dependencies using:
 pip install xgboost pandas numpy scikit-learn
 ```
 
-## 🔧 Usage
+## Usage
 
 1. **Clone the repository (if applicable)**
    ```bash
